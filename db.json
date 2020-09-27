@@ -34,32 +34,4 @@
     "price": 29.99,
     "imageUrl": "https://via.placeholder.com/150/f66b97"
   },
-  {
-    "description": "A red shirt - it is pretty red!",
-    "id": "p6",
-    "title": "accusamus ea aliquid et amet sequi nemo",
-    "price": 29.99,
-    "imageUrl": "https://via.placeholder.com/150/56a8c2"
-  },
-  {
-    "description": "A red shirt - it is pretty red!",
-    "id": "p7",
-    "title": "officia delectus consequatur vero aut veniam explicabo molestias",
-    "price": 29.99,
-    "imageUrl": "https://via.placeholder.com/150/b0f7cc"
-  },
-  {
-    "description": "A red shirt - it is pretty red!",
-    "id": "p7",
-    "title": "aut porro officiis laborum odit ea laudantium corporis",
-    "price": 29.99,
-    "imageUrl": "https://via.placeholder.com/150/54176f"
-  },
-  {
-    "description": "A red shirt - it is pretty red!",
-    "id": "p8",
-    "title": "qui eius qui autem sed",
-    "price": 29.99,
-    "imageUrl": "https://via.placeholder.com/150/51aa97"
-  }
   ]
