@@ -1,4 +1,4 @@
-{ "product":[
+[
   {
     "description": "A red shirt - it is pretty red!",
     "id": "p1",
@@ -63,4 +63,3 @@
     "imageUrl": "https://via.placeholder.com/150/51aa97"
   }
   ]
-}
