@@ -1,0 +1,54 @@
+{
+    "products" : {
+      "-MIpglj3tYBShNpgu42T" : {
+        "creatorcreatorId" : "uxls1iaOyWNcJJnz4V4yxLdIBxh1",
+        "description" : "bdbdbdbcxzvVzzczxvzxcvzcvz",
+        "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/7/79/Alphonso_mango.jpg",
+        "price" : 800.0,
+        "title" : "Mango"
+      },
+      "-MIphffrUP6fnYZKhlt" : {
+        "creatorId" : "uxls1iaOyWNcJJnz4V4yxLdIBxh1",
+        "description" : "A red shirt - it is pretty red!",
+        "imageUrl" : "https://via.placeholder.com/150/24f355",
+        "price" : 29.99,
+        "title" : "officia porro iure quia iusto qui ipsa ut modi"
+      },
+      "-MIphhKDdDP6fnYZKhlt" : {
+        "creatorId" : "uxls1iaOyWNcJJnz4V4yxLdIBxh1",
+        "description" : "A red shirt - it is pretty red!",
+        "imageUrl" : "https://via.placeholder.com/150/f66b97",
+        "price" : 29.99,
+        "title" : "natus nisi omnis corporis facere molestiae rerum in"
+      },
+      "-MIphhKDrUP6fnYZK2lt" : {
+        "creatorId" : "uxls1iaOyWNcJJnz4V4yxLdIBxh1",
+        "description" : "A red shirt - it is pretty red!",
+        "imageUrl" : "https://via.placeholder.com/150/92c952",
+        "price" : 29.99,
+        "title" : "accusamus beatae ad facilis cum similique qui sunt"
+      },
+      "-MIphhKDrUP6fnYZKhlt" : {
+        "creatorcreatorId" : "uxls1iaOyWNcJJnz4V4yxLdIBxh1",
+        "description" : "a very tasty foll",
+        "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/6/69/Raspberries05.jpg",
+        "price" : 55.0,
+        "title" : "Raspberry"
+      },
+      "-MIphhKDrUP8fnYZKhlt" : {
+        "creatorId" : "uxls1iaOyWNcJJnz4V4yxLdIBxh1",
+        "description" : "A red shirt - it is pretty red!",
+        "imageUrl" : "https://via.placeholder.com/150/d32776",
+        "price" : 29.99,
+        "title" : "culpa odio esse rerum omnis laboriosam voluptate repudiandae"
+      },
+      "-MIphhKDvUP6fnYZKhlt" : {
+        "creatorId" : "uxls1iaOyWNcJJnz4V4yxLdIBxh1",
+        "description" : "A red shirt - it is pretty red!",
+        "imageUrl" : "https://via.placeholder.com/150/771796",
+        "price" : 29.99,
+        "title" : "reprehenderit est deserunt velit ipsam"
+      }
+    }
+  }
+  

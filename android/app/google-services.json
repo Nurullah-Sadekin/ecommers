@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387070024026",
+    "firebase_url": "https://ecommers-24070.firebaseio.com",
+    "project_id": "ecommers-24070",
+    "storage_bucket": "ecommers-24070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387070024026:android:9770230be1c2baac64fb63",
+        "android_client_info": {
+          "package_name": "com.santosenoque.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387070024026-2r01r6rbt9orc5quujtki1oom6vohsgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdJIxcmdl8HVlfkGSjdP05t6XL3RROpxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387070024026-2r01r6rbt9orc5quujtki1oom6vohsgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
