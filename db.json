@@ -33,19 +33,5 @@
     "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/6/69/Raspberries05.jpg",
     "price" : 55.0,
     "title" : "Raspberry"
-  },
-  "-MIphhKDrUP8fnYZKhlt" : {
-    "creatorId" : "uxls1iaOyWNcJJnz4V4yxLdIBxh1",
-    "description" : "A red shirt - it is pretty red!",
-    "imageUrl" : "https://via.placeholder.com/150/d32776",
-    "price" : 29.99,
-    "title" : "culpa odio esse rerum omnis laboriosam voluptate repudiandae"
-  },
-  "-MIphhKDvUP6fnYZKhlt" : {
-    "creatorId" : "uxls1iaOyWNcJJnz4V4yxLdIBxh1",
-    "description" : "A red shirt - it is pretty red!",
-    "imageUrl" : "https://via.placeholder.com/150/771796",
-    "price" : 29.99,
-    "title" : "reprehenderit est deserunt velit ipsam"
   }
 }
